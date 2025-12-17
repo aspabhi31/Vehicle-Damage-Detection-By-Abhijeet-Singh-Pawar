@@ -1,7 +1,6 @@
 streamlit
+torch
+torchvision
 numpy
 pandas
-matplotlib
-seaborn
 scikit-learn
-joblib
